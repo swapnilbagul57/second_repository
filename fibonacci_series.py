@@ -15,3 +15,6 @@ print(next(x))
 print(next(x))
 
 
+print("\n Using for in loop ")
+for i in fib(5):
+    print(i)
